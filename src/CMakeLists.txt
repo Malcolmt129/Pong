@@ -1,0 +1,9 @@
+set(SOURCES 
+    src/main
+    src/Ball
+    src/Paddle
+    src/Brick
+    src/World
+    src/CollisionDetection
+    src/GameController
+    PARENT_SCOPE)

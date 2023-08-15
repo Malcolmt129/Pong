@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/main.cpp.o -c /home/mac129/CompProg/pong/src/main.cpp",
+  "file": "/home/mac129/CompProg/pong/src/main.cpp"
+},
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/Ball.cpp.o -c /home/mac129/CompProg/pong/src/Ball.cpp",
+  "file": "/home/mac129/CompProg/pong/src/Ball.cpp"
+},
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/Paddle.cpp.o -c /home/mac129/CompProg/pong/src/Paddle.cpp",
+  "file": "/home/mac129/CompProg/pong/src/Paddle.cpp"
+},
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/Brick.cpp.o -c /home/mac129/CompProg/pong/src/Brick.cpp",
+  "file": "/home/mac129/CompProg/pong/src/Brick.cpp"
+},
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/World.cpp.o -c /home/mac129/CompProg/pong/src/World.cpp",
+  "file": "/home/mac129/CompProg/pong/src/World.cpp"
+},
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/CollisionDetection.cpp.o -c /home/mac129/CompProg/pong/src/CollisionDetection.cpp",
+  "file": "/home/mac129/CompProg/pong/src/CollisionDetection.cpp"
+},
+{
+  "directory": "/home/mac129/CompProg/pong/build",
+  "command": "/usr/bin/g++   -I/home/mac129/CompProg/pong/include  -g   -o CMakeFiles/Pong.dir/src/GameController.cpp.o -c /home/mac129/CompProg/pong/src/GameController.cpp",
+  "file": "/home/mac129/CompProg/pong/src/GameController.cpp"
+}
+]
